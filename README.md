@@ -1,4 +1,6 @@
 # InicianteProgramacao
-Estes projetos foram desenvolvidos como parte do curso da Alura, com algumas personalizações e implementações adicionais feitas por mim, durante o decorrer das aulas. 
+1. LogProgJs
+Curso: Lógica de Programação: Mergulhe em Programação com JavaScript
 
-LogProgJs é do curso de Lógica de programação: mergulhe em programação com JavaScript.             A parte feita durante as aulas foi a de JavaScript, os outros aqruivos foram fornecidos pela Alura.
+Implementação em JavaScript: A parte desenvolvida durante as aulas foi feita inteiramente em JavaScript, abordando conceitos fundamentais.
+Arquivos Fornecidos: Todos os outros arquivos do projeto, como HTML e CSS, foram fornecidos pela Alura.
