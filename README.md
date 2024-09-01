@@ -1,4 +1,6 @@
 # A partir do zero: iniciante em programação
+Projetos feitos durante a formação a partir do zero: iniciante em programação da Alura.
+
 1. LogProgJs
 Curso: Lógica de Programação: Mergulhe em Programação com JavaScript.
 
