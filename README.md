@@ -18,3 +18,27 @@ Curso: Lógica de programação: praticando com desafios.
 
 Implementação em JavaScript: A parte desenvolvida durante as aulas foi feita inteiramente em JavaScript, revisando os conceitos fundamentais de lógica de programação.
 Arquivos Fornecidos: Todos os outros arquivos do projeto, como HTML e CSS, foram fornecidos pela Alura.
+
+4. AluGames
+Curso: Lógica de programação: praticando com desafios.
+
+Implementação em JavaScript: A parte desenvolvida durante as aulas foi feita inteiramente em JavaScript, exercício para revisar os conceitos fundamentais de lógica de programação.
+Arquivos Fornecidos: Todos os outros arquivos do projeto, como HTML e CSS, foram fornecidos pela Alura.
+
+5. CarrinhoCompras
+Curso: Lógica de programação: praticando com desafios.
+
+Implementação em JavaScript: A parte desenvolvida durante as aulas foi feita inteiramente em JavaScript, exercício para revisar os conceitos fundamentais de lógica de programação.
+Arquivos Fornecidos: Todos os outros arquivos do projeto, como HTML e CSS, foram fornecidos pela Alura.
+
+6. Ingresso
+Curso: Lógica de programação: praticando com desafios.
+
+Implementação em JavaScript: A parte desenvolvida durante as aulas foi feita inteiramente em JavaScript, exercício para revisar os conceitos fundamentais de lógica de programação.
+Arquivos Fornecidos: Todos os outros arquivos do projeto, como HTML e CSS, foram fornecidos pela Alura.
+
+7. AmigoSecreto
+Curso: Lógica de programação: praticando com desafios.
+
+Implementação em JavaScript: A parte desenvolvida durante as aulas foi feita inteiramente em JavaScript, exercício para revisar os conceitos fundamentais de lógica de programação.
+Arquivos Fornecidos: Todos os outros arquivos do projeto, como HTML e CSS, foram fornecidos pela Alura.
